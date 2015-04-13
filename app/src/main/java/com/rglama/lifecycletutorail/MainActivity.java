@@ -17,6 +17,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
 
     private static final String STATE_SCORE = "";
+    private static final java.lang.String STATE_LEVEL = "";
     TextView mtextview;
 
 
